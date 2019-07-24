@@ -1,7 +1,11 @@
 # Joker Lorem Movies
 
 [![licence mit](https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](http://hemersonvianna.mit-license.org/)
-[![issues](https://img.shields.io/github/issues/joker-solutions/joker-loremmovies.svg?style=flat-square)](https://github.com/joker-solutions/joker-loremmovies/issues)
+[![GitHub issues](https://img.shields.io/github/issues/org-victorinox/joker-loremmovies.svg)](https://github.com/org-victorinox/joker-loremmovies/issues)
+![GitHub Release Date](https://img.shields.io/github/release-date/org-victorinox/joker-loremmovies.svg)
+![GitHub top language](https://img.shields.io/github/languages/top/org-victorinox/joker-loremmovies.svg)
+![GitHub repo size](https://img.shields.io/github/repo-size/org-victorinox/joker-loremmovies.svg)
+![GitHub All Releases](https://img.shields.io/github/downloads/org-victorinox/joker-loremmovies/total.svg)
 
 ## Contributing
 
@@ -13,7 +17,7 @@
 
 ## Log
 
-Check [Releases](https://github.com/joker-solutions/joker-loremmovies/releases) for detailed changelog.
+Check [Releases](https://github.com/org-victorinox/joker-loremmovies/releases) for detailed changelog.
 
 ## License
 
